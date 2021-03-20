@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ⭐BET EXCHANGE OFFICIAL⭐
-    subtitle: Conference for Creative People
+    subtitle: Khelo kamaao jeeto aur hatho hath lo..
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
